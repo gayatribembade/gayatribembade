@@ -66,10 +66,9 @@ Description of another impressive project you've built.
 - **Tech:** TypeScript, Express, PostgreSQL
 - **Features:** API integration, data visualization, performance optimization
 
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
+
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" /> -->
+<!-- </div> -->
 
 ### 🤝 Let's Connect!
 
